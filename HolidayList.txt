@@ -1,0 +1,1 @@
+FirstDayOfMonth,1,*,*,New Years,Monday,1,3,Always 3rd,MLK,Monday,2,3,Always 3rd,*,Custom,2,14,*,*,Custom,3,17,*,*,FirstDayOfMonth,4,*,*,*,Sunday,5,2,Always 2nd,*,Sunday,6,3,Always 3rd,*,Custom,7,4,*,Independance Day,Monday,9,1,Always 1st,*,Monday,10,2,Always 2nd,*,Custom,10,31,*,*,Custom,11,11,*,*,Thursday,11,*,EndOfMonthDay,Thanksgiving,Custom,12,25,*,Christmas
